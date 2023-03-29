@@ -1,6 +1,6 @@
 # Hola, soy Natasha &#x1F590; 
 
-Mi nombre es ${\color{pink}Natasha \space Arias}$ , me pueden decir ${\color{pink}nat}$ o ${\color{pink}nati}$ . Mi número de legajo es: 
+Mi nombre es ${\color{pink}Natasha \space Arias}$ , me pueden decir ${\color{pink}nat}$ o ${\color{pink}nati}$ . Mi número de legajo es: **177.381-1**
 
 Estoy cursando la carrera de **Ing. En Sistemas** pero también pase por Medicina y Bioquimica en la UBA, ya que desde muy chica queria dedicarme al sector de la salud, pero por algunas cuestiones de la vida termine aca, encontrando una nueva pasión que desconocia.
 Tengo varios hobbies como: 
