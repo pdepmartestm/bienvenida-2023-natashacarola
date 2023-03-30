@@ -21,7 +21,7 @@ Comparto una foto en la patagonia ya que también, además de sacar fotos, me gu
 
 _Estuve viendo que compartian fotos de sus mascotas y yo tambien quise. Estas son mis 2 bendiciones:_
 
-<img src="coquita.jpg" width= 50% > <img src="mimi.jpg" width= 50% >
+<img src="coquita.jpg" width= 30% > <img src="mimi.jpg" width= 28.5% >
 
 
 Sin mas que agregar, espero que sea una buena cursada para todos por igual. Saludos &#x1F497;
