@@ -15,9 +15,14 @@ También trabajo por cuenta propia como niñera / particular aunque aunque uno d
 
 ***
 
-Comparto una foto en la patagonia ya que también, además de sacar fotos, me gusta viajar: ![patagonia](/patagonia.jpg)
+Comparto una foto en la patagonia ya que también, además de sacar fotos, me gusta viajar: <img src="patagonia.jpg"  width=60%>
 
 ***
+
+_Estuve viendo que compartian fotos de sus mascotas y yo tambien quise. Estas son mis 2 bendiciones:_
+
+<img src="coquita.jpg" width= 50% > <img src="mimi.jpg" width= 50% >
+
 
 Sin mas que agregar, espero que sea una buena cursada para todos por igual. Saludos &#x1F497;
 
